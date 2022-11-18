@@ -1,1 +1,1 @@
-web: gunicorn visit-lapland.wsgi
+web: gunicorn lapland.wsgi
